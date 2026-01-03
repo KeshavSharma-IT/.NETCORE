@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\migrations\\20260102155655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\migrations\\20260102155655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|c:\\users\\keshavcode\\source\\repos\\webapicodefirst\\webapicodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E1E3E64-FB89-ECBA-ECFD-3216DA97FA51}|WebApiCodeFirst\\WebApiCodeFirst.csproj|solutionrelative:webapicodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiCodeFirst\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T05:31:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApiCodeFirst\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:01:20.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260102155655_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Migrations\\20260102155655_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Migrations\\20260102155655_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Migrations\\20260102155655_InitialCreate.cs",
+              "RelativeToolTip": "WebApiCodeFirst\\Migrations\\20260102155655_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:56:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Program.cs",
+              "RelativeToolTip": "WebApiCodeFirst\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:49:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "WebApiCodeFirst\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:43:44.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiCodeFirst\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:35:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\KeshavCode\\source\\repos\\WebApiCodeFirst\\WebApiCodeFirst\\appsettings.json",
+              "RelativeToolTip": "WebApiCodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T13:11:05.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
