@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AspCoreConsumeWebApi.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.empName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.empAge)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.empGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.empDOJ)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.designation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.salary)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.empName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.empAge)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.empGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.empDOJ)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.designation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.salary)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.empId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.empId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.empId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
